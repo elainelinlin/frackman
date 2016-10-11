@@ -6,5 +6,9 @@ To run the program, use 2015 Visual Studio to open the file 'frackman.sln' from 
 Contributors
 --------------
 1) Prof. Carey Nachenberg at UCLA provided the skeleton of the game
-2) All contents of the following files were created by Elaine Lin: StudentWorld.h, StudentWorld.cpp, Actors.h, Actors.cpp
+
+2) All contents of the following files were created by Elaine Lin: 
+
+> StudentWorld.h, StudentWorld.cpp, Actors.h, Actors.cpp
+
 3) Built as class project
