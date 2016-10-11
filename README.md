@@ -1,5 +1,5 @@
 # frackman
-A pac-man equivalent C++ one-player game, cs32 project (2015)
+A pac-man equivalent C++ one-player game, cs32 project (2016)
 
 To run the program, use 2015 Visual Studio to open the file 'frackman.sln' from folder 'frackman'
 
